@@ -1,0 +1,8 @@
+//Class Name: info_lightprobe
+//Class Name: info_target_clientside
+//Class Name: light_environment
+//Class Name: light_environment_volume
+//Class Name: light_spot
+//Class Name: worldspawn
+//Spawn Class: idWorldspawn
+//Spawn Class: reLight
