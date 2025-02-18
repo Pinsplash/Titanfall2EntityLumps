@@ -1,4 +1,4 @@
-This repo contains all of the entity lump data in Titanfall 2's BSP's, from all of the individual `.ent` files and the `.bsp`'s themselves.
+This repo contains all of the entity lump data in Titanfall 2's BSP's, from all of the individual `.ent` files and the `.bsp`'s themselves. This repo exists for the purpose of searching for certain things, but you should not use the GitHub search function because it is garbage. Please use Notepad++.
 
 * `root/`
   * Combined entity data from all files related to a map.
